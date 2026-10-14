@@ -19426,71 +19426,11 @@
     <sub-title lang="en">Entertainment News</sub-title>
     <previously-shown />
   </programme>
-  <programme start="20261019110000 +0700" stop="20261019113000 +0700" channel="tvbj1.tvbusa.com">
-    <title lang="zh">香港, 國際晚間新聞</title>
-    <sub-title lang="en">Hong Kong, World News Roundup</sub-title>
-    <previously-shown />
+  <programme start="20261019110000 +0700" stop="20261019170500 +0700" channel="tvbj1.tvbusa.com">
+    <title lang="zh">賽馬直擊</title>
+    <sub-title lang="en">Horse Racing Day</sub-title>
   </programme>
-  <programme start="20261019113000 +0700" stop="20261019120000 +0700" channel="tvbj1.tvbusa.com">
-    <title lang="zh">財經透視</title>
-    <sub-title lang="en">Finance Magazine</sub-title>
-    <previously-shown />
-  </programme>
-  <programme start="20261019120000 +0700" stop="20261019123000 +0700" channel="tvbj1.tvbusa.com">
-    <title lang="zh">職工頭圍用膳 東京篇</title>
-    <sub-title lang="en">We Are Family In Tokyo</sub-title>
-    <previously-shown />
-  </programme>
-  <programme start="20261019123000 +0700" stop="20261019130000 +0700" channel="tvbj1.tvbusa.com">
-    <title lang="zh">娛樂新聞報道</title>
-    <sub-title lang="en">Entertainment News</sub-title>
-    <previously-shown />
-  </programme>
-  <programme start="20261019130000 +0700" stop="20261019133000 +0700" channel="tvbj1.tvbusa.com">
-    <title lang="zh">醫啲阿媽都唔知</title>
-    <sub-title lang="en">Mother Knows Best, Doctor Know The Facts</sub-title>
-    <previously-shown />
-  </programme>
-  <programme start="20261019133000 +0700" stop="20261019140000 +0700" channel="tvbj1.tvbusa.com">
-    <title lang="zh">星期日檔案</title>
-    <sub-title lang="en">Sunday Report</sub-title>
-    <previously-shown />
-  </programme>
-  <programme start="20261019140000 +0700" stop="20261019142500 +0700" channel="tvbj1.tvbusa.com">
-    <title lang="zh">周遊關西</title>
-    <sub-title lang="en">Think You Know Kansai?(Sr.2)</sub-title>
-    <previously-shown />
-  </programme>
-  <programme start="20261019142500 +0700" stop="20261019145000 +0700" channel="tvbj1.tvbusa.com">
-    <title lang="zh">香港 國際午間新聞</title>
-    <sub-title lang="en">Hong Kong World Noon News</sub-title>
-  </programme>
-  <programme start="20261019145000 +0700" stop="20261019151500 +0700" channel="tvbj1.tvbusa.com">
-    <title lang="zh">周六聊Teen谷</title>
-    <sub-title lang="en">ChatSAT</sub-title>
-    <previously-shown />
-  </programme>
-  <programme start="20261019151500 +0700" stop="20261019154000 +0700" channel="tvbj1.tvbusa.com">
-    <title lang="zh">美食新聞報道</title>
-    <sub-title lang="en">Gourmet Express</sub-title>
-    <previously-shown />
-  </programme>
-  <programme start="20261019154000 +0700" stop="20261019160500 +0700" channel="tvbj1.tvbusa.com">
-    <title lang="zh">講清講楚</title>
-    <sub-title lang="en">On The Record</sub-title>
-    <previously-shown />
-  </programme>
-  <programme start="20261019160500 +0700" stop="20261019163000 +0700" channel="tvbj1.tvbusa.com">
-    <title lang="zh">香港, 國際午間新聞</title>
-    <sub-title lang="en">Hong Kong, World Noon News</sub-title>
-    <previously-shown />
-  </programme>
-  <programme start="20261019163000 +0700" stop="20261019171000 +0700" channel="tvbj1.tvbusa.com">
-    <title lang="zh">職工頭圍用膳 東京篇</title>
-    <sub-title lang="en">We Are Family In Tokyo</sub-title>
-    <previously-shown />
-  </programme>
-  <programme start="20261019171000 +0700" stop="20261019173000 +0700" channel="tvbj1.tvbusa.com">
+  <programme start="20261019170500 +0700" stop="20261019173000 +0700" channel="tvbj1.tvbusa.com">
     <title lang="zh">娛樂新聞報道</title>
     <sub-title lang="en">Entertainment News</sub-title>
     <previously-shown />
@@ -20498,17 +20438,12 @@
     <title lang="zh">賽馬直擊</title>
     <sub-title lang="en">Horse Racing Day</sub-title>
   </programme>
-  <programme start="20261025120000 +0700" stop="20261025170500 +0700" channel="tvbj1.tvbusa.com">
+  <programme start="20261025120000 +0700" stop="20261025173500 +0700" channel="tvbj1.tvbusa.com">
     <title lang="zh">北極潮什麼</title>
     <sub-title lang="en">Hipster Tour - The Arctic</sub-title>
     <previously-shown />
   </programme>
-  <programme start="20261025170500 +0700" stop="20261025173000 +0700" channel="tvbj1.tvbusa.com">
-    <title lang="zh">娛樂新聞報道</title>
-    <sub-title lang="en">Entertainment News</sub-title>
-    <previously-shown />
-  </programme>
-  <programme start="20261025173000 +0700" stop="20261025200000 +0700" channel="tvbj1.tvbusa.com">
+  <programme start="20261025173500 +0700" stop="20261025200000 +0700" channel="tvbj1.tvbusa.com">
     <title lang="zh">香港, 國際新聞</title>
     <sub-title lang="en">Hong Kong, World News</sub-title>
   </programme>
@@ -21045,12 +20980,12 @@
     <sub-title lang="en">War of Diviners</sub-title>
     <previously-shown />
   </programme>
-  <programme start="20261028170000 +0700" stop="20261028180000 +0700" channel="tvbj1.tvbusa.com">
+  <programme start="20261028170000 +0700" stop="20261028173000 +0700" channel="tvbj1.tvbusa.com">
     <title lang="zh">娛樂新聞報道</title>
     <sub-title lang="en">Entertainment News</sub-title>
     <previously-shown />
   </programme>
-  <programme start="20261028180000 +0700" stop="20261028220500 +0700" channel="tvbj1.tvbusa.com">
+  <programme start="20261028173000 +0700" stop="20261028220500 +0700" channel="tvbj1.tvbusa.com">
     <title lang="zh">賽馬直擊</title>
     <sub-title lang="en">Horse Racing Day</sub-title>
   </programme>
