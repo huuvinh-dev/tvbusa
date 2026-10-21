@@ -5811,15 +5811,15 @@
   </programme>
   <programme start="20261101063000 +0700" stop="20261101070000 +0700" channel="tvb1.tvbusa.com">
     <title lang="zh">香港連場好戲</title>
-    <sub-title lang="en">TBA</sub-title>
+    <sub-title lang="en">Hong Kong Good Take</sub-title>
   </programme>
   <programme start="20261101070000 +0700" stop="20261101073000 +0700" channel="tvb1.tvbusa.com">
-    <title lang="zh">「雄」才論香港</title>
-    <sub-title lang="en">The Elites Talk</sub-title>
+    <title lang="zh">親民的品味</title>
+    <sub-title lang="en">Fancy But Not Pricey</sub-title>
   </programme>
   <programme start="20261101073000 +0700" stop="20261101080000 +0700" channel="tvb1.tvbusa.com">
     <title lang="zh">Grand住去首爾</title>
-    <sub-title lang="en">Living the Grand Life</sub-title>
+    <sub-title lang="en">Le Grand Tour de Seoul</sub-title>
   </programme>
   <programme start="20261101080000 +0700" stop="20261101081500 +0700" channel="tvb1.tvbusa.com">
     <title lang="zh">娛樂新聞報道</title>
@@ -5845,7 +5845,7 @@
   </programme>
   <programme start="20261101103000 +0700" stop="20261101110000 +0700" channel="tvb1.tvbusa.com">
     <title lang="zh">香港連場好戲</title>
-    <sub-title lang="en">TBA</sub-title>
+    <sub-title lang="en">Hong Kong Good Take</sub-title>
     <previously-shown />
   </programme>
   <programme start="20261001140000 +0700" stop="20261001150000 +0700" channel="tvbe.tvbusa.com">
