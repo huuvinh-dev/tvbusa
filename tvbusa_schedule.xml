@@ -5809,13 +5809,9 @@
     <title lang="zh">美食新聞報道</title>
     <sub-title lang="en">Gourmet Express</sub-title>
   </programme>
-  <programme start="20261101063000 +0700" stop="20261101070000 +0700" channel="tvb1.tvbusa.com">
-    <title lang="zh">香港連場好戲</title>
-    <sub-title lang="en">Hong Kong Good Take</sub-title>
-  </programme>
-  <programme start="20261101070000 +0700" stop="20261101073000 +0700" channel="tvb1.tvbusa.com">
-    <title lang="zh">親民的品味</title>
-    <sub-title lang="en">Fancy But Not Pricey</sub-title>
+  <programme start="20261101063000 +0700" stop="20261101073000 +0700" channel="tvb1.tvbusa.com">
+    <title lang="zh">怪宿宿2想天開</title>
+    <sub-title lang="en">Travelodd (Sr.2)</sub-title>
   </programme>
   <programme start="20261101073000 +0700" stop="20261101080000 +0700" channel="tvb1.tvbusa.com">
     <title lang="zh">Grand住去首爾</title>
@@ -5844,8 +5840,8 @@
     <previously-shown />
   </programme>
   <programme start="20261101103000 +0700" stop="20261101110000 +0700" channel="tvb1.tvbusa.com">
-    <title lang="zh">香港連場好戲</title>
-    <sub-title lang="en">Hong Kong Good Take</sub-title>
+    <title lang="zh">怪宿宿2想天開</title>
+    <sub-title lang="en">Travelodd (Sr.2)</sub-title>
     <previously-shown />
   </programme>
   <programme start="20261001140000 +0700" stop="20261001150000 +0700" channel="tvbe.tvbusa.com">
